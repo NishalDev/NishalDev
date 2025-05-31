@@ -8,7 +8,7 @@
 - 🌱 Actively learning and applying concepts in AI for detection and image segmentation. Exploring PostgreSQL with Docker for efficient database management.
 - 💬 Feel free to ask me about API debugging, best practices in web development, blockchain integration, Docker, CI/CD, DevOps, or scalable architecture.
 - 🚀 Aspiring to contribute to open-source projects, improve problem-solving skills, and continue enhancing logical thinking through coding challenges.
-- 📫 You can reach me at nishaldevadiga2003@gmail.com
+
 
 
 
