@@ -1,45 +1,29 @@
-<h1 align="center">Welcome, Fellow Tech Explorers!</h1>
-<h3 align="center">I'm Nishal, a tech enthusiast on a mission to turn ideas into reality!</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=790b761156823e912a423769146e717149dfa9fb84fbcd22&rid=giphy.gif&ct=g">
+# Nishal Devadiga
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaldev&label=Profile%20views&color=0e75b6&style=flat" alt="nishaldev" /> </p>
+**Backend engineer who designs, ships, and maintains production systems end-to-end.**
 
-- 🔭 Currently working on a major project focused on developing scalable web applications using MERN stack (MongoDB, Express.js, React, Node.js) and integrating blockchain for secure  transactions.
-- 🌱 Actively learning and applying concepts in AI for detection and image segmentation. Exploring PostgreSQL with Docker for efficient database management.
-- 💬 Feel free to ask me about API debugging, best practices in web development, blockchain integration, Docker, CI/CD, DevOps, or scalable architecture.
-- 🚀 Aspiring to contribute to open-source projects, improve problem-solving skills, and continue enhancing logical thinking through coding challenges.
+Currently the founding backend engineer at LandMint - a live pan-India proptech platform on Android, iOS, and web. I'm the sole backend engineer on a four-person team: I designed the schema, built the APIs, set up deployment, and I maintain it in production. No handoffs, no separate DevOps, no QA - full lifecycle ownership from day one.
 
+Alongside that, I build and ship my own products. I tend to pressure-test an idea against what already exists in the market before committing to build - I'd rather kill a weak idea early than execute it well for nothing.
 
+---
 
+**Currently working with:**
+Node.js · TypeScript · PostgreSQL · Redis / BullMQ · FastAPI · Python · AWS · Docker
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a> 
-</p>
+**Also in my stack:**
+PHP / Laravel · Next.js · PostGIS · Claude API · Gemini · Supabase · Zod
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishaldev&show_icons=true&locale=en&layout=compact" alt="nishaldev" /></p>
+**A few things I've built:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaldev&show_icons=true&locale=en" alt="nishaldev" /></p>
+- **[Zaash](https://stage.zaash.io)** - Sales-auditing backend with a configurable weighted scoring engine (0–100, admin-tunable weights), a multi-worker BullMQ pipeline (4 async job types), and an LLM layer generating audit summaries and recommendations. TypeScript · Node.js · PostgreSQL · Redis · BullMQ · Claude API
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishaldev&" alt="nishaldev" /></p>
+- **[Dump2Form](https://dump2form.com)** - AI tool that converts unstructured text into structured form data with schema-constrained extraction, confidence scoring, and source provenance. Next.js · TypeScript · Supabase · Claude API · Gemini
+
+- **[Sweepzy](https://sweepzy-fe.vercel.app)** - Civic litter-reporting platform with a PostGIS geospatial engine (proximity search + clustering) and async AI image verification via Redis queues. FastAPI · PostgreSQL · PostGIS · Redis · Next.js · Docker
+
+---
+
+📫 nishaldevadiga2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishaldev/) · [Portfolio](https://nishal-devadiga-portfolio.vercel.app/) · Open to remote backend roles
