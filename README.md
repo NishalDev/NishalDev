@@ -26,4 +26,4 @@ PHP / Laravel · Next.js · PostGIS · Claude API · Gemini · Supabase · Zod
 
 ---
 
-📫 nishaldevadiga2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishaldev/) · [Portfolio](https://nishal-devadiga-portfolio.vercel.app/) · Open to remote backend roles
+nishaldevadiga2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishaldev/) · [Portfolio](https://nishal-devadiga-portfolio.vercel.app/) · Open to remote backend roles
