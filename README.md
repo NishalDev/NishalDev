@@ -1,29 +1,43 @@
 # Nishal Devadiga
 
-**Backend engineer who designs, ships, and maintains production systems end-to-end.**
+Backend engineer. I build it, ship it and get the call when it breaks.
+Good backend work is invisible, which is excellent engineering and a terrible personal brand. Hence this README.
+I write frontend too, at exactly the level you'd expect from a backend engineer: it works, it's responsive.
+I also build my own products, though most of the effort goes into talking myself out of them first, killing a weak idea in a weekend beats executing it beautifully for six months.
 
-Currently the founding backend engineer at LandMint - a live pan-India proptech platform on Android, iOS, and web. I'm the sole backend engineer on a four-person team: I designed the schema, built the APIs, set up deployment, and I maintain it in production. No handoffs, no separate DevOps, no QA - full lifecycle ownership from day one.
+### Working with
 
-Alongside that, I build and ship my own products. I tend to pressure-test an idea against what already exists in the market before committing to build - I'd rather kill a weak idea early than execute it well for nothing.
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis%20%2F%20BullMQ-FF4438?style=flat-square&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+### Also in the toolbox
 
-**Currently working with:**
-Node.js · TypeScript · PostgreSQL · Redis / BullMQ · FastAPI · Python · AWS · Docker
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1f2328?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-**Also in my stack:**
-PHP / Laravel · Next.js · PostGIS · Claude API · Gemini · Supabase · Zod
+### Out in the wild
 
----
+**[nerd](https://github.com/NishalDev/nerd)** it is a claude code plugin that scans a repo and maps the concepts it actually uses into a registry you can learn from. FYI: Named after what it turns you into.
 
-**A few things I've built:**
+### and some more...
+- **[Zaash](https://zaash.io)** - sales auditing tool but better
+- **[Dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds
+- **[Sweepzy](https://sweepzy.in)** - litter reporting & management ( too much garbage so it is under maintenance )
+- **[twb](https://twelfthbrain.com)** -  judgment ontology platform ( interesting one.. )
+- **memoring** - voice first second brain app ( in the making... )
 
-- **[Zaash](https://stage.zaash.io)** - Sales-auditing backend with a configurable weighted scoring engine (0–100, admin-tunable weights), a multi-worker BullMQ pipeline (4 async job types), and an LLM layer generating audit summaries and recommendations. TypeScript · Node.js · PostgreSQL · Redis · BullMQ · Claude API
+## Open to any remote software roles
 
-- **[Dump2Form](https://dump2form.com)** - AI tool that converts unstructured text into structured form data with schema-constrained extraction, confidence scoring, and source provenance. Next.js · TypeScript · Supabase · Claude API · Gemini
-
-- **[Sweepzy](https://sweepzy-fe.vercel.app)** - Civic litter-reporting platform with a PostGIS geospatial engine (proximity search + clustering) and async AI image verification via Redis queues. FastAPI · PostgreSQL · PostGIS · Redis · Next.js · Docker
-
----
-
-nishaldevadiga2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/nishaldev/) · [Portfolio](https://nishal-devadiga-portfolio.vercel.app/) · Open to remote backend roles
+nishaldevadiga2003@gmail.com | [LinkedIn](https://www.linkedin.com/in/nishaldev/) | [Portfolio](https://nishal-devadiga-portfolio.vercel.app/)
