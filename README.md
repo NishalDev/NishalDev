@@ -1,4 +1,4 @@
-# Nishal Devadiga
+# Nishal
 
 Backend engineer. I build it, ship it and get the call when it breaks.
 Good backend work is invisible, which is excellent engineering and a terrible personal brand. Hence this README.
