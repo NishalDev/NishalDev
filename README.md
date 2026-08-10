@@ -29,7 +29,7 @@ I also build my own products, though most of the effort goes into talking myself
 
 ### Out in the wild
 
-**[nerd](https://github.com/NishalDev/nerd)** it is a claude code plugin that scans a repo and maps the concepts it actually uses into a registry you can learn from. FYI: Named after what it turns you into.
+**[nerd](https://github.com/NishalDev/nerd)** is a claude code plugin that scans a repo and maps the concepts it actually uses into a registry you can learn from. FYI: Named after what it turns you into.
 
 ### and some more...
 - **[zaash](https://zaash.io)** - sales auditing tool but better
