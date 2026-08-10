@@ -32,10 +32,10 @@ I also build my own products, though most of the effort goes into talking myself
 **[nerd](https://github.com/NishalDev/nerd)** it is a claude code plugin that scans a repo and maps the concepts it actually uses into a registry you can learn from. FYI: Named after what it turns you into.
 
 ### and some more...
-- **[Zaash](https://zaash.io)** - sales auditing tool but better
-- **[Dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds
-- **[Sweepzy](https://sweepzy.in)** - litter reporting & management ( too much garbage so it is under maintenance )
-- **[twb](https://twelfthbrain.com)** -  judgment ontology platform ( interesting one.. )
+- **[zaash](https://zaash.io)** - sales auditing tool but better
+- **[dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds
+- **[sweepzy](https://sweepzy.in)** - litter reporting & management ( too much garbage so it is under maintenance )
+- **[twelfthbrain](https://twelfthbrain.com)** -  judgment ontology platform ( interesting one.. )
 - **memoring** - voice first second brain app ( in the making... )
 
 ## Open to any remote software roles
