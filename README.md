@@ -1,6 +1,6 @@
 # Nishal
 
-Backend engineer. I build it, ship it and get the call when it breaks.
+Backend & AI engineer. I build production LLM pipelines on Node.js, TypeScript and PostgreSQL, ship them and get the call when they break.
 Good backend work is invisible, which is excellent engineering and a terrible personal brand. Hence this README.
 I write frontend too, at exactly the level you'd expect from a backend engineer: it works, it's responsive.
 I also build my own products, though most of the effort goes into talking myself out of them first, killing a weak idea in a weekend beats executing it beautifully for six months.
@@ -15,6 +15,7 @@ I also build my own products, though most of the effort goes into talking myself
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ### also...
 
@@ -26,18 +27,17 @@ I also build my own products, though most of the effort goes into talking myself
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-1f2328?style=flat-square&logo=deno&logoColor=white)
 
 ### out in the wild
 
 **[nerd](https://github.com/NishalDev/nerd)** is a claude code plugin that scans a repo and maps the concepts it actually uses into a registry you can learn from. FYI: Named after what it turns you into.
 
 ### and some more...
-- **[zaash](https://zaash.io)** - sales auditing tool but better
-- **[dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds
+- **[memoring](https://play.google.com/store/apps/details?id=com.irinfotech.memoring)** - voice-first reminder assistant ( beta, on the play store )
+- **[dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds ( in production )
 - **[sweepzy](https://sweepzy.in)** - litter reporting & management ( too much garbage so it is under maintenance )
-- **[twelfthbrain](https://twelfthbrain.com)** -  judgment ontology platform ( interesting one.. )
-- **memoring** - voice first second brain app ( in the making... )
 
-### open to any remote software roles
+### open to remote backend & AI roles ( IST, flexible for US/EU overlap )
 
 nishaldevadiga2003@gmail.com | [LinkedIn](https://www.linkedin.com/in/nishaldev/) | [Portfolio](https://nishal-devadiga-portfolio.vercel.app/)
