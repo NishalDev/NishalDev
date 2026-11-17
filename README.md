@@ -37,6 +37,7 @@ I also build my own products, though most of the effort goes into talking myself
 - **[memoring](https://play.google.com/store/apps/details?id=com.irinfotech.memoring)** - voice-first reminder assistant ( beta, on the play store )
 - **[dump2Form](https://dump2form.com)** - dump any data of any format and get it structured in seconds ( in production )
 - **[sweepzy](https://sweepzy.in)** - litter reporting & management ( too much garbage so it is under maintenance )
+- **[insars](https://insars.com)** - platform for bright minds for the bright future ( under development, for researchers)
 
 ### open to remote backend & AI roles ( IST, flexible for US/EU overlap )
 
